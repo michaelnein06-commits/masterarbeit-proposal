@@ -1,0 +1,16 @@
+# Sensitive files
+.env
+*.credentials
+personal-data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+*.bak
